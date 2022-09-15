@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="39" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/your/name/here/UserProfile.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="333" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/your/name/here/domain/UserTagEvent.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/your/name/here/ProductInfo.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="39" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/your/name/here/UserTag.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="44" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/your/name/here/domain/Action.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="56" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/your/name/here/domain/UserProfileResult.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="101" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/your/name/here/domain/Product.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2920" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/your/name/here/EchoClient.java" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
